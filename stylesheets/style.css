@@ -1,0 +1,14 @@
+.personal-highlight {
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    background: #e0e0e0;
+}
+
+.personal-top {
+    background: darkblue;
+}
+
+
+h1{
+    margin: 0;
+}
